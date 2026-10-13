@@ -21,5 +21,3 @@ Saya seorang mahasiswa baru jurusan **Informatika** di **Universitas Jember (UNE
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASUKKAN_USERNAME_GITHUB_KAMU&layout=compact&theme=radical" height="150" alt="Top Langs" />
-</p>
